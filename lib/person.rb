@@ -17,5 +17,5 @@ class Person
 end
 
 brian = Person.new
-brian.name = "Brian"
-puts brian.name
+brian.name="Brian"
+brian.name
