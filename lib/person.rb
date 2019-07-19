@@ -17,4 +17,4 @@ class Person
 end
 
 brian = Person.new
-brian.name 
+brian.name
