@@ -16,8 +16,4 @@ class Person
   end
 end
 
-brian = Person.new
-brian.name="Brian"
-brian.name
-brian1 = brian.name
-brian1
+puts "test"
