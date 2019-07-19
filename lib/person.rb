@@ -20,3 +20,4 @@ brian = Person.new
 brian.name="Brian"
 brian.name
 brian1 = brian.name
+brian1
