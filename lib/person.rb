@@ -16,4 +16,7 @@ class Person
   end
 end
 
-puts "test"
+brian = Person.new
+brian.name="Brian"
+return brian.name
+
