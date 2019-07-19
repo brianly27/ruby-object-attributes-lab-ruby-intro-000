@@ -18,4 +18,4 @@ end
 
 brian = Person.new
 brian.name = "Brian"
-brian.name
+puts brian.name
