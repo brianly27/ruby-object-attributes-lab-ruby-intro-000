@@ -15,5 +15,5 @@ class Person
     @job
   end
 end
-    
+
 brian = Person.new
