@@ -16,6 +16,3 @@ class Person
   end
 end
 
-brian = Person.new
-brian.name="Brian"
-return brian.name
